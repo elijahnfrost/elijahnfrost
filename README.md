@@ -1,6 +1,6 @@
 # Elijah Frost
 
-I am a first-year student at Johns Hopkins University and intend to major in neuroscience. In high school I spent two summers as a research intern at Oregon Health & Science University, first in the Galbraith Lab, which studies cell migration and adhesion with single-molecule imaging, and then in the Gibbs Lab, which develops fluorescent contrast agents for cancer imaging and image-guided surgery.
+I am a first-year student at Johns Hopkins University, where I major in applied mathematics and statistics and intend to add majors in neuroscience and cognitive science. In high school I spent two summers as a research intern at Oregon Health & Science University, first in the Galbraith Lab, which studies cell migration and adhesion with single-molecule imaging, and then in the Gibbs Lab, which develops fluorescent contrast agents for cancer imaging and image-guided surgery.
 
 Most of the projects below are tools I built for work I was already doing, such as planning a summer camp week, studying from flashcards, and running my own website.
 
